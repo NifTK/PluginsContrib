@@ -1,0 +1,3 @@
+[submodule "org.commontk.xnat"]
+	path = org.commontk.xnat
+	url = https://github.com/commontk/plugin-org.commontk.xnat.git
